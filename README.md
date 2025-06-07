@@ -1,6 +1,6 @@
 # spong-ml
 
-*starting info
+##starting info
 
 to push to repo you will need an approval from one of the member to push your changes, also the changes will need to come from the PR(pull request)
 
@@ -16,4 +16,6 @@ git checkout -b branchname
 
 change the branchname to your real branch name
 
-*** don't forget to pull the latest changes from main to avoid conflicts
+
+> [!CAUTION]
+> don't forget to pull the latest changes from main to avoid conflicts
