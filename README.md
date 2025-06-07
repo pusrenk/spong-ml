@@ -18,4 +18,4 @@ change the branchname to your real branch name
 
 
 > [!CAUTION]
-> don't forget to pull the latest changes from main to avoid conflicts
+> don't forget to pull the latest changes from main branch to avoid conflicts
